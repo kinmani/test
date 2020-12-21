@@ -1,2 +1,1 @@
-# test
-test
+{"data":{"website":"http:\/\/back.wwvideo.xyz\/","use_qiniu":"0","domain":["http:\/\/back.wwvideo.xyz\/","http:\/\/47.242.152.41\/","http:\/\/back.wwvideo.xyz\/"],"video_free_time":"60","advert_count":"5","qqun":"http:\/\/www.qq.com\/","agenturl":"http:\/\/news.qq.com\/"},"msg":"获取成功","code":0}
